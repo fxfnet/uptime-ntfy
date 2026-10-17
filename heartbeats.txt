@@ -1,0 +1,2 @@
+# Machines internes : un nom par ligne, identique au message envoyé par la machine.
+macaron
